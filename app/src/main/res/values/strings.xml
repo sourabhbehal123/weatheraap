@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather app</string>
+    <string name="error_titlt">oops sorry</string>
+    <string name="error_msg">there is an error</string>
+    <string name="error_button">OK</string>
+    <string name="network_unavailable_msg">sorry network is not available</string>
+    <string name="dark_sky_message"><a href="Http://darksky.net/poweredby">Powered By DarkSky</a></string>
+</resources>
